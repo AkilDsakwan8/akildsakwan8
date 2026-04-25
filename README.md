@@ -7,11 +7,11 @@
 
 - 📫 How to reach me **akildsakwan2@gmail.com**
 
-<h3 align="center">Languages and Tools:</h3>
+
 
 <h3 align="center">Languages and Tools:</h3>
 
-<p align="center" dir="rtl">
+<p align="left" dir="rtl">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45"/>
