@@ -7,13 +7,6 @@
 
 ---
 
-### 📫 Contact
-<p align="center">
-  <b>akildsakwan2@gmail.com</b>
-</p>
-
----
-
 <h2 align="center">🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 
 <p align="center" dir="rtl">
@@ -42,4 +35,8 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akildsakwan8&theme=tokyonight" />
+</p>
+### 📫 Contact
+<p align="center">
+  <b>akildsakwan2@gmail.com</b>
 </p>
